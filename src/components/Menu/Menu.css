@@ -1,0 +1,34 @@
+.left-menu-container{
+    width: 22vw;
+    background-color:  #0C365A;
+    height: 100vh;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.logo-img {
+    height: 50px;
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.brand-tag {
+    color: white;
+    opacity: 35%;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 50px;
+}
+
+.menu-item-img{
+    margin-right: 20px;
+}
+
+.menu-item-div{
+    display: flex;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
